@@ -38,6 +38,3 @@ pip install -r requirements.txt
 * **Performance:** The LSTM model achieved higher overall accuracy on the unbalanced dataset, but balancing improved recall for delayed flights at the cost of overall accuracy.
 * **Next Steps:** Hyperparameter tuning, advanced feature engineering, and incorporating additional external factors (e.g., real-time weather APIs).
 
----
-
-*Prepared as part of Module 7 coursework on Prescriptive Analytics.*

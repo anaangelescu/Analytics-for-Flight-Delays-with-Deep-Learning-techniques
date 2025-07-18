@@ -11,9 +11,6 @@ Built a scalable data warehouse to aggregate and analyze airline booking and ope
 * **Modeling:** Star schema design with fact and dimension tables
 * **Tools:** Microsoft PowerPoint (design diagrams and slide deck)
 
-## 📂 Repository Contents
-
-* `Case_study_Module3.pptx` – Detailed report, data model diagrams, ETL workflow, and results
 
 ## 🔧 Getting Started
 

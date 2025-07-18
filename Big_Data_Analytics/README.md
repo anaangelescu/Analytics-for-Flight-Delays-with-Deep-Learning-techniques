@@ -14,7 +14,6 @@ Explored and analyzed large-scale airline operations datasets to optimize flight
 
 ## 📂 Repository Contents
 
-* `Case_study_Module2.pdf` – Detailed methodology, architecture diagrams, code snippets, and results
 * `Module_2_Big_data_analytics.R` – R script executing the core data processing and analysis pipeline *(if available)*
 
 ## 🔧 Getting Started

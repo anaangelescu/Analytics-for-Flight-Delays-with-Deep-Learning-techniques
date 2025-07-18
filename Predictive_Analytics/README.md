@@ -13,9 +13,6 @@ Developed a rule‑based expert system to support flight operations decision‑m
 
 ## 📂 Repository Contents
 
-* `Case_study_Module4.pdf` – Detailed system architecture, rule definitions, inference examples, and evaluation results
-* `rules/` – Prolog source files defining the expert system knowledge base
-* `scripts/` – Python scripts for data loading, invoking the Prolog engine, and visualizing outputs
 
 ## 🔧 Getting Started
 

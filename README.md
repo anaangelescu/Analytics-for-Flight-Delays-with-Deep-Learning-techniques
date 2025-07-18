@@ -1,40 +1,75 @@
-# Predictive Analytics for Flight Delays
+# Airline Analytics Portfolio
 
-**Module 7: Prescriptive Analytics - Automated Decision Systems, Expert Systems, Knowledge Management, and Collaborative Systems**
+Welcome to the **Airline Analytics Portfolio**, a collection of five case studies (Modules 3–7) from my Prescriptive Analytics coursework. Each module applies data science, machine learning, and deep learning techniques to solve real-world airline and airport operations challenges.
 
-A case study applying deep learning (LSTM) and traditional machine learning techniques to forecast flight delays using historical flight data, weather conditions, and airport congestion factors.
+## Repository Structure
 
-## 🚀 Tech Stack
-
-* **Language:** Python 3.9+
-* **Frameworks & Libraries:** TensorFlow/Keras, scikit-learn, Pandas, NumPy
-* **Environment:** Google Colab
-* **Reporting:** Microsoft PowerPoint (slides in PDF)
-
-## 📂 Repository Contents
-
-* `Case_study_Module7.pdf` – Project report and slides
-* `Module7_LSTM.ipynb` – Google Colab notebook implementing LSTM models
-* `requirements.txt` – List of Python dependencies
-
-## 🔧 Getting Started
-
-```bash
-git clone https://github.com/anaangelescu/predictive-flight-delays.git
-cd predictive-flight-delays
-pip install -r requirements.txt
+```text
+airline-analytics-portfolio/
+├── Module3_Data_Warehousing/
+│   ├── README.md
+│   └── Case_study_Module3.pptx
+├── Module4_Flight_Operations/
+│   ├── README.md
+│   └── Case_study_Module4.pdf
+├── Module5_Descriptive_Analytics/
+│   ├── README.md
+│   └── Case_study_Module5.pdf
+├── Module6_Predictive_Maintenance/
+│   ├── README.md
+│   └── Case_study_Module6.pdf
+├── Module7_Flight_Delays/
+│   ├── README.md
+│   ├── Case_study_Module7.pdf
+│   └── Module7_LSTM.ipynb
+└── README.md    # Root README (this file)
 ```
 
+## Modules Overview
 
-## 📊 Key Results
+* **Module 3: Data Warehousing & ETL**
 
-| Model                 | Dataset  | Test Accuracy | Test Loss |
-| --------------------- | -------- | ------------- | --------- |
-| LSTM (unbalanced)     | Full set | 81.41%        | 0.4477    |
-| LSTM (balanced 50/50) | Balanced | 64.71%        | 0.6246    |
+  * Built a scalable data warehouse for airline booking and operations data.
+  * Tools: SQL, ETL pipelines, Star schema design.
 
-## 📝 Conclusions & Future Work
+* **Module 4: Expert Systems**
 
-* **Performance:** The LSTM model achieved higher overall accuracy on the unbalanced dataset, but balancing improved recall for delayed flights at the cost of overall accuracy.
-* **Next Steps:** Hyperparameter tuning, advanced feature engineering, and incorporating additional external factors (e.g., real-time weather APIs).
+  * Developed a rule-based decision support engine for flight operations.
+  * Tools: Prolog, Python integration, rule authoring.
 
+* **Module 5: Descriptive Analytics**
+
+  * Created interactive dashboards to visualize KPIs across route networks.
+  * Tools: Tableau, Python (Matplotlib, Seaborn).
+
+* **Module 6: Predictive Maintenance**
+
+  * Forecasted aircraft component failures using machine learning.
+  * Tools: Python (scikit-learn), feature engineering, model evaluation.
+
+* **Module 7: Flight Delay Prediction**
+
+  * Forecasted flight delays using LSTM and traditional ML models.
+  * Tools: Python (TensorFlow/Keras, scikit-learn), Pandas, NumPy.
+
+## Getting Started
+
+1. **Clone this repository**
+
+   ```bash
+   git clone https://github.com/anaangelescu/airline-analytics-portfolio.git
+   cd airline-analytics-portfolio
+   ```
+
+2. **Browse each module**
+
+   * Navigate into any `ModuleX_YOUR_MODULE_NAME` folder to view its dedicated `README.md`, case study files, and code.
+
+3. **View online**
+
+   * Enable GitHub Pages in Settings → Pages → Deploy from `main` branch → `/ (root)` folder.
+   * Access the site at: `https://anaangelescu.github.io/airline-analytics-portfolio`
+
+---
+
+* 2025 Ana Maria Angelescu*

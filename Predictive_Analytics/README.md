@@ -11,8 +11,6 @@ Developed a rule‑based expert system to support flight operations decision‑m
 * **Knowledge Authoring:** Custom rule files (`.pl`) defining flight, crew, and airport operational logic
 * **Reporting:** Microsoft PowerPoint (slide deck)
 
-## 📂 Repository Contents
-
 
 ## 🔧 Getting Started
 

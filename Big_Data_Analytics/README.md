@@ -60,7 +60,4 @@ Explored and analyzed large-scale airline operations datasets to optimize flight
 * **Scalable Architecture:** Developed a reusable pipeline supporting ad hoc and batch analytics on >5 million records.
 * **Presentation:** Delivered a 15‑minute pitch highlighting efficiency gains, cost‑saving opportunities, and a path to production deployment.
 
----
-
-*For full details, diagrams, and results, see `Case_study_Module2.pdf`.*
 

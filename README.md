@@ -7,4 +7,4 @@ Welcome to the **Airline Analytics Portfolio**, each module applies data science
    * Navigate into any folder to view its dedicated `README.md`, case study files, and code.
 
 
-* 2025 Ana Maria Angelescu*
+  *2025 Ana Maria Angelescu*
